@@ -1,7 +1,7 @@
 # Streetart_Fighting
 Jeu vidéo réalisé en un week-end.
 
-Télécharger et éxecuter le sous Windows.
+Téléchargez et éxecutez le sous Windows.
 
 
 Synopsis:
