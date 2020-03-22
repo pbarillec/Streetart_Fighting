@@ -11,4 +11,7 @@ Votre but est simple, éradiquer les graffeurs avant le temps imparti.
 Pour cela deux options s'offre à vous : les faire fuir ou les ELIMINER.
 
 
+![Image](https://i.imgur.com/u2Omedr.png)
+
+
 Réalisé par Victor SIMON, Baptiste MOTTIN, Peter BESSONE, Rémi BALBOUS et Pierre BARILLEC
