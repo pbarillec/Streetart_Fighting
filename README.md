@@ -10,6 +10,7 @@ Nous sommes en 2040, la police engage une unité de drone pour faire fuir les gr
 Votre but est simple, éradiquer les graffeurs avant le temps imparti.
 Pour cela deux options s'offre à vous : les faire fuir ou les ELIMINER.
 
+Voici la carte avec la position des graffeurs:
 
 ![Image](https://i.imgur.com/u2Omedr.png)
 
